@@ -1,0 +1,2 @@
+Titulo,Autor,Fecha de Publicacion,ISBN,Estado
+a,a,a,a,D
