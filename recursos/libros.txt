@@ -1,2 +1,5 @@
 Titulo,Autor,Fecha de Publicacion,ISBN,Estado
-a,a,a,a,D
+Agus y los 7 Enanitos,Agus,13/05/2004,35456889,P
+Justicia por Martin,Agus,14/04/2003,6578446779,D
+Jose y Belgrano,San Martin,17/08/1987,55477868743,D
+Agus y los 7 pecados Capitales,Agustina Campos,13/05/2025,45749591,D
